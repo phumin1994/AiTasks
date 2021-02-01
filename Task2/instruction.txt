@@ -1,0 +1,10 @@
+In Terminal/CMD
+
+exectute:
+
+- pip install pandas
+- pip install sklearn
+
+After that run:
+
+- python3 KNN.py
