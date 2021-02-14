@@ -1,0 +1,8 @@
+In terminal/CMD
+
+execute:
+- pip install sklearn
+
+after that, to run task-4
+- make a folder with the csv files and the code file.
+- python3 task4.py 

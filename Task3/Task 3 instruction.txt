@@ -1,0 +1,7 @@
+In terminal/CMD
+
+execute:
+- pip install sklearn
+
+after that, to run task-3
+- python3 task3.py
