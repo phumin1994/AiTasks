@@ -1,0 +1,8 @@
+to install the required packages:
+ - pip install -r requirements.txt
+
+
+to run files:
+
+- python SVM.py
+- python decision_tree.py
