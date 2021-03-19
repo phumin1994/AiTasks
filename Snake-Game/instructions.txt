@@ -1,0 +1,16 @@
+to install packages
+-pip install -r requirements.txt
+
+to train the neural network
+
+- run python main.py
+the network will train and will saved as model.h5
+
+to run the trained model and play the ai game.
+
+-run python ai_play.py
+
+
+To increase accuracy change in
+
+training_data.py/ generate_training_data function variables.

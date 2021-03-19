@@ -3,8 +3,8 @@ from game import *
 def generate_training_data(display, clock):
     training_data_x = []
     training_data_y = []
-    training_games = 100
-    steps_per_game = 200
+    training_games = 100 # increase to 1000 if you want to achive high accuracy
+    steps_per_game = 200 # increase to 2000
 
     for _ in tqdm(range(training_games)):
         snake_start, snake_position, apple_position, score = starting_positions()

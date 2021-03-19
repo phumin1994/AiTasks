@@ -1,5 +1,5 @@
 import tensorflow as tf
-from keras.backend.tensorflow_backend import set_session
+#from keras.backend.tensorflow_backend import set_session
 #config = tf.ConfigProto()
 #config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
 from game import *

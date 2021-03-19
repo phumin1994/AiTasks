@@ -8,7 +8,7 @@ from sklearn.tree import export_graphviz
 import matplotlib.pyplot as plt
 
 from sklearn import tree
-import graphviz
+
 
 col_names = ['pregnant', 'glucose', 'bp', 'skin', 'insulin', 'bmi', 'pedigree', 'age', 'label']
 # load dataset
